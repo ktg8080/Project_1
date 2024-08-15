@@ -1,23 +1,6 @@
-# Project_1 By_Aparajita
+# Project_1
 Project Description:
 We are analyzing data about crimes in Chicago from 2010-2024.
-Notes for Data Cleaning
-
-Remove columns:
-Case Number
-IUCR
-Beat
-District
-Community Area
-FBI Code
-X Coordinate
-Y Coordinate
-Location
-
-Remove Null Values (only when doing analysis that will involve Latitude and Longitude):
--remove full row
-
-
 Research Questions:
 What are the 6 most common crimes in Chicago from 2010-2024?
 Which wards are most & least affected wards by these crimes?
