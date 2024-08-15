@@ -1,3 +1,4 @@
+
 # Project_1
 Project Description:
 We are analyzing data about crimes in Chicago from 2010-2024.
@@ -18,7 +19,6 @@ API Documentation: https://dev.socrata.com/foundry/data.cityofchicago.org/ijzp-q
 
 Breakdown of Tasks:
 -All team members will do every task, and the best iteration of each subset will be used in our final presentation.
-
 
 
 
