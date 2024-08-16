@@ -34,6 +34,7 @@ Discarded Questions (8/12/24):
 How has the prevalence of these crimes changed over time?
 What trends appeared in these crimes during the initial years of the Covid19 pandemic (2020-2022)?
 How do arrest rates & crime rates compare across mayoral terms?
+The data was not sufficient to answer these questions, so they were discarded.
 
 Notes for Data Cleaning
 
