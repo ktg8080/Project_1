@@ -1,5 +1,5 @@
 
-# Project_1
+# Project_1 - Crime in Chicago
 Project Description:
 We are analyzing data about crimes in Chicago from 2010-2024.
 Research Questions:
